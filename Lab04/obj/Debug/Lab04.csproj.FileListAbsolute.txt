@@ -1,0 +1,13 @@
+E:\Proyectos C#\Lab04\Lab04\bin\Debug\Lab04.exe.config
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.Persona.resources
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.Cache
+E:\Proyectos C#\Lab04\Lab04\bin\Debug\Lab04.exe
+E:\Proyectos C#\Lab04\Lab04\bin\Debug\Lab04.pdb
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.exe
+E:\Proyectos C#\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\Syn\Desktop\mollo labs\4\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\Syn\Desktop\mollo labs\4\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\Syn\Desktop\mollo labs\4\Lab04\Lab04\obj\Debug\Lab04.pdb
